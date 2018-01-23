@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 I am trying merge conflict
 This should work
 I am trying merge conflict
 This should work
+
